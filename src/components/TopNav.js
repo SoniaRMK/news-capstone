@@ -20,7 +20,7 @@ const TopNav = () => {
   return (
     <nav className='navbar navbar-expand-lg navbar-light'>
       <button
-        class='navbar-toggler'
+        className='navbar-toggler'
         type='button'
         data-toggle='collapse'
         data-target='#navbarTogglerDemo01'
@@ -28,7 +28,7 @@ const TopNav = () => {
         aria-expanded='false'
         aria-label='Toggle navigation'
       >
-        <span class='navbar-toggler-icon'></span>
+        <span className='navbar-toggler-icon'></span>
       </button>
 
       <ul
